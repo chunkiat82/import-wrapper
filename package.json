@@ -1,0 +1,26 @@
+{
+  "name": "import-wrapper",
+  "version": "0.0.1",
+  "description": "Wraps your imports with other functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chunkiat82/import-wrapper.git"
+  },
+  "author": "Raymond Ho <chunkiat82@gmail.com> (http://github.com/chunkiat82)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chunkiat82/import-wrapper/issues"
+  },
+  "homepage": "https://github.com/chunkiat82/import-wrapper",
+  "dependencies": {
+    "babel": "^5.8.34",
+    "es6-module-loader": "^0.17.8",
+    "require-replacer": "^1.0.7",
+    "traceur": "0.0.93",
+    "typescript": "^1.7.3"
+  }
+}
